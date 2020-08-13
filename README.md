@@ -3,6 +3,8 @@ Python implementation of Conway's Game of Life
 
 Rules : https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
 
-Animation with : https://ffmpeg.org/
+Code Specific :
 
-Storing pattern with rle : https://www.conwaylife.com/wiki/Run_Length_Encoded
+- Storing patterns with rle : https://www.conwaylife.com/wiki/Run_Length_Encoded
+- Lots of patterns (with descriptions) at : https://copy.sh/life/examples/
+- Animations with : https://ffmpeg.org/
