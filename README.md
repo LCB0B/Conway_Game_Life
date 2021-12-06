@@ -21,6 +21,6 @@ To run the model you need Jupyter notebook, then :
 - Lots of patterns (with descriptions) at : https://copy.sh/life/examples/
 - Animations with : https://ffmpeg.org/
 
-# Inspired by (and many thanks ! to ) :
+# Inspired by (and many thanks to ) :
 - https://www.geeksforgeeks.org/conways-game-life-python-implementation/
 - https://github.com/scienceetonnante/ConwayLife
